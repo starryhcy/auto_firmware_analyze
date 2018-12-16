@@ -5,7 +5,6 @@ cd /usr
 sudo mkdir firmware
 cd firmware
 sudo mkdir scripts
-cd scripts
 
 # [*]change ubuntu system sources to aliyun source
 #:<<BLOCK
